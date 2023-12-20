@@ -16,8 +16,6 @@
 /.next/
 /out/
 
-/src/app/api
-
 # production
 /build
 
